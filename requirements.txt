@@ -1,0 +1,8 @@
+imageio
+psutil
+fastapi
+requests
+oss2
+fastapi
+fastapi-mcp
+uvicorn
